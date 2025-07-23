@@ -1,0 +1,474 @@
+Labmentix Project Structure    -
+
+
+Project Type    - EDA/Regression/Classification/Unsupervised
+Contribution    - Individual/Team
+
+Project Summary -
+Write the summary here within 500-600 words.
+
+GitHub Link -
+Provide your GitHub Link here.
+
+Problem Statement -
+Write Problem Statement Here.
+
+
+General Guidelines : -  
+1. Well-structured, formatted, and commented code is required.
+
+2. Exception Handling, Production Grade Code & Deployment Ready Code will be a plus. Those students will be awarded some additional credits. The additional credits will have advantages over other students during Star Student selection.
+   [ Note: - Deployment Ready Code is defined as, the whole .ipynb notebook should be executable in one go without a single error logged. ]
+
+3. Each and every logic should have proper comments.
+
+4. You may add as many number of charts you want. Make Sure for each and every chart the following format should be answered.    
+    Chart visualization code:    
+    - Why did you pick the specific chart?
+    - What is/are the insight(s) found from the chart?
+    - Will the gained insights help creating a positive business impact?
+    - Are there any insights that lead to negative growth? Justify with specific reason.
+
+5. You have to create at least 15 logical & meaningful charts having important insights.
+    [ Hints : - Do the Visualization in  a structured way while following "UBM" Rule.
+      U - Univariate Analysis,
+      B - Bivariate Analysis (Numerical - Categorical, Numerical - Numerical, Categorical - Categorical)
+      M - Multivariate Analysis
+    ]
+
+6. You may add more ml algorithms for model creation. Make sure for each and every algorithm, the following format should be answered.
+  - Explain the ML Model used and it's performance using Evaluation metric Score Chart.
+  - Cross- Validation & Hyperparameter Tuning
+  - Have you seen any improvement? Note down the improvement with updates Evaluation metric Score Chart.
+  - Explain each evaluation metric's indication towards business and the business impact pf the ML model used.
+
+
+Let's Begin !
+
+
+1. Know Your Data
+
+1.1 Import Libraries
+# Import Libraries
+
+1.2 Dataset Loading
+# Load Dataset
+
+1.3 Dataset First View
+# Dataset First Look
+
+1.4 Dataset Rows & Columns count
+# Dataset Rows & Columns count
+
+1.5 Dataset Information
+# Dataset Info
+
+1.6 Duplicate Values
+# Dataset Duplicate Value Count
+
+1.7 Missing Values/Null Values
+# Missing Values/Null Values Count
+# Visualizing the missing values
+
+1.8 What did you know about your dataset?
+# Answer Here
+
+
+2. Understanding Your Variables
+
+2.1 Dataset Columns
+# Dataset Columns
+
+2.2 Dataset Describe
+# Dataset Describe
+
+2.3 Variables Description
+# Answer Here
+
+2.4 Check Unique Values for each variable.
+# Check Unique Values for each variable.
+
+
+3. Data Wrangling
+
+3.1 Data Wrangling Code
+# Write your code to make your dataset analysis ready.
+
+3.2 What all manipulations have you done and insights you found?
+# Answer Here.
+
+
+4. Data Visualization, Storytelling & Experimenting with charts : Understand the relationships between variables
+
+4.1 Chart - 1
+# Chart - 1 visualization code
+1. Why did you pick the specific chart?
+# Answer Here.
+2. What is/are the insight(s) found from the chart?
+Answer Here
+3. Will the gained insights help creating a positive business impact?
+Are there any insights that lead to negative growth? Justify with specific reason.
+Answer Here
+
+4.2 Chart - 2
+# Chart - 2 visualization code
+1. Why did you pick the specific chart?
+# Answer Here.
+2. What is/are the insight(s) found from the chart?
+Answer Here
+3. Will the gained insights help creating a positive business impact?
+Are there any insights that lead to negative growth? Justify with specific reason.
+Answer Here
+
+4.3 Chart - 3
+# Chart - 3 visualization code
+1. Why did you pick the specific chart?
+# Answer Here.
+2. What is/are the insight(s) found from the chart?
+Answer Here
+3. Will the gained insights help creating a positive business impact?
+Are there any insights that lead to negative growth? Justify with specific reason.
+Answer Here
+
+4.4 Chart - 4
+# Chart - 4 visualization code
+1. Why did you pick the specific chart?
+# Answer Here.
+2. What is/are the insight(s) found from the chart?
+Answer Here
+3. Will the gained insights help creating a positive business impact?
+Are there any insights that lead to negative growth? Justify with specific reason.
+Answer Here
+
+4.5 Chart - 5
+# Chart - 5 visualization code
+1. Why did you pick the specific chart?
+# Answer Here.
+2. What is/are the insight(s) found from the chart?
+Answer Here
+3. Will the gained insights help creating a positive business impact?
+Are there any insights that lead to negative growth? Justify with specific reason.
+Answer Here
+
+4.6 Chart - 6
+# Chart - 6 visualization code
+1. Why did you pick the specific chart?
+# Answer Here.
+2. What is/are the insight(s) found from the chart?
+Answer Here
+3. Will the gained insights help creating a positive business impact?
+Are there any insights that lead to negative growth? Justify with specific reason.
+Answer Here
+
+4.7 Chart - 7
+# Chart - 7 visualization code
+1. Why did you pick the specific chart?
+# Answer Here.
+2. What is/are the insight(s) found from the chart?
+Answer Here
+3. Will the gained insights help creating a positive business impact?
+Are there any insights that lead to negative growth? Justify with specific reason.
+Answer Here
+
+4.8 Chart - 8
+# Chart - 8 visualization code
+1. Why did you pick the specific chart?
+# Answer Here.
+2. What is/are the insight(s) found from the chart?
+Answer Here
+3. Will the gained insights help creating a positive business impact?
+Are there any insights that lead to negative growth? Justify with specific reason.
+Answer Here
+
+4.9 Chart - 9
+# Chart - 9 visualization code
+1. Why did you pick the specific chart?
+# Answer Here.
+2. What is/are the insight(s) found from the chart?
+Answer Here
+3. Will the gained insights help creating a positive business impact?
+Are there any insights that lead to negative growth? Justify with specific reason.
+Answer Here
+
+4.10 Chart - 10
+# Chart - 10 visualization code
+1. Why did you pick the specific chart?
+# Answer Here.
+2. What is/are the insight(s) found from the chart?
+Answer Here
+3. Will the gained insights help creating a positive business impact?
+Are there any insights that lead to negative growth? Justify with specific reason.
+Answer Here
+
+4.11 Chart - 11
+# Chart - 11 visualization code
+1. Why did you pick the specific chart?
+# Answer Here.
+2. What is/are the insight(s) found from the chart?
+Answer Here
+3. Will the gained insights help creating a positive business impact?
+Are there any insights that lead to negative growth? Justify with specific reason.
+Answer Here
+
+4.12 Chart - 12
+# Chart - 12 visualization code
+1. Why did you pick the specific chart?
+# Answer Here.
+2. What is/are the insight(s) found from the chart?
+Answer Here
+3. Will the gained insights help creating a positive business impact?
+Are there any insights that lead to negative growth? Justify with specific reason.
+Answer Here
+
+4.13 Chart - 13
+# Chart - 13 visualization code
+1. Why did you pick the specific chart?
+# Answer Here.
+2. What is/are the insight(s) found from the chart?
+Answer Here
+3. Will the gained insights help creating a positive business impact?
+Are there any insights that lead to negative growth? Justify with specific reason.
+Answer Here
+
+4.14 Chart - 14 - Correlation Heatmap
+# Correlation Heatmap visualization code
+1. Why did you pick the specific chart?
+# Answer Here.
+2. What is/are the insight(s) found from the chart?
+Answer Here
+
+4.15 Chart - 15 - Pair Plot
+# Pair Plot visualization code
+1. Why did you pick the specific chart?
+# Answer Here.
+2. What is/are the insight(s) found from the chart?
+Answer Here
+
+
+5. Hypothesis Testing
+
+5.1 Based on your chart experiments, define three hypothetical statements from the dataset. In the next three questions, perform hypothesis testing to obtain final conclusion about the statements through your code and statistical testing.
+# Answer Here.
+
+5.2 Hypothetical Statement - 1
+1. State Your research hypothesis as a null hypothesis and alternate hypothesis.
+# Answer Here.
+2. Perform an appropriate statistical test.
+# Perform Statistical Test to obtain P-Value
+3. Which statistical test have you done to obtain P-Value?
+# Answer Here.
+4. Why did you choose the specific statistical test?
+# Answer Here.
+
+5.3 Hypothetical Statement - 2
+1. State Your research hypothesis as a null hypothesis and alternate hypothesis.
+# Answer Here.
+2. Perform an appropriate statistical test.
+Perform Statistical Test to obtain P-Value
+3. Which statistical test have you done to obtain P-Value?
+# Answer Here.
+4. Why did you choose the specific statistical test?
+# Answer Here.
+
+5.4 Hypothetical Statement - 3
+1. State Your research hypothesis as a null hypothesis and alternate hypothesis.
+# Answer Here.
+2. Perform an appropriate statistical test.
+Perform Statistical Test to obtain P-Value
+3. Which statistical test have you done to obtain P-Value?
+# Answer Here.
+4. Why did you choose the specific statistical test?
+# Answer Here.
+
+
+6. Feature Engineering 
+
+6.1 Handling Missing Values
+# Handling Missing Values & Missing Value Imputation
+- What all missing value imputation techniques have you used and why did you use those techniques?
+# Answer Here.
+
+6.2 Handling Outliers
+# Handling Outliers & Outlier treatments
+- What all outlier treatment techniques have you used and why did you use those techniques?
+# Answer Here.
+
+6.3 Categorical Encoding
+# Encode your categorical columns
+- What all categorical encoding techniques have you used & why did you use those techniques?
+# Answer Here.
+
+6.4 Textual Data Preprocessing
+(It's mandatory for textual dataset i.e., NLP, Sentiment Analysis, Text Clustering etc.)
+
+6.4.1 Expand Contraction
+# Expand Contraction
+
+6.4.2 Lower Casing
+# Lower Casing
+
+6.4.3 Removing Punctuations
+# Remove Punctuations
+
+6.4.4 Removing URLs & Removing words and digits contain digits.
+# Remove URLs & Remove words and digits contain digits
+
+6.4.5 Removing Stopwords & Removing White spaces
+# Remove Stopwords
+# Remove White spaces
+
+6.4.6 Rephrase Text
+# Rephrase Text
+
+6.4.7 Tokenization
+# Tokenization
+
+6.4.8 Text Normalization
+# Normalizing Text (i.e., Stemming, Lemmatization etc.)
+- Which text normalization technique have you used and why?
+# Answer Here.
+
+6.4.9 Part of speech tagging
+# POS Taging
+
+6.4.10 Text Vectorization
+# Vectorizing Text
+- Which text vectorization technique have you used and why?
+# Answer Here.
+
+6.5 Feature Manipulation & Selection
+
+6.5.1 Feature Manipulation
+# Manipulate Features to minimize feature correlation and create new features
+
+6.5.2 Feature Selection
+# Select your features wisely to avoid overfitting
+
+6.5.3 What all feature selection methods have you used  and why?
+# Answer Here.
+
+6.5.4 Which all features you found important and why?
+# Answer Here.
+
+7. Data Pre-processing
+
+7.1 Data Transformation
+# Transform Your data
+- Do you think that your data needs to be transformed? If yes, which transformation have you used. Explain Why?
+# Answer Here.
+
+7.2 Data Scaling
+# Scaling your data
+- Which method have you used to scale you data and why?
+# Answer Here.
+
+7.3 Dimensionality Reduction
+- Do you think that dimensionality reduction is needed? Explain Why?
+# Answer Here.
+# Dimensionality Reduction (If needed)
+- Which dimensionality reduction technique have you used and why? (If dimensionality reduction done on dataset.)
+# Answer Here.
+
+7.4 Data Splitting
+# Split your data to train and test. Choose Splitting ratio wisely.
+- What data splitting ratio have you used and why?
+# Answer Here.
+
+7.5 Handling Imbalanced Dataset
+- Do you think the dataset is imbalanced? Explain Why.
+# Answer Here.
+# Handling Imbalanced Dataset (If needed)
+- What technique did you use to handle the imbalance dataset and why? (If needed to be balanced)
+# Answer Here.
+
+
+8. ML Model Implementation
+
+8.1 ML Model - 1
+# ML Model - 1 Implementation
+# Fit the Algorithm
+# Predict on the model
+
+8.1.1 Explain the ML Model used and it's performance using Evaluation metric Score Chart.
+# Visualizing evaluation Metric Score chart
+
+8.1.2 Cross- Validation & Hyperparameter Tuning
+# ML Model - 1 Implementation with hyperparameter optimization techniques (i.e., GridSearch CV, RandomSearch CV, Bayesian Optimization etc.)
+# Fit the Algorithm
+# Predict on the model
+
+8.1.3 Which hyperparameter optimization technique have you used and why?
+# Answer Here.
+
+8.1.4 Have you seen any improvement? Note down the improvement with updates Evaluation metric Score Chart.
+# Answer Here.
+
+
+8.2 ML Model - 2
+# ML Model - 2 Implementation
+# Fit the Algorithm
+# Predict on the model
+
+8.2.1 Explain the ML Model used and it's performance using Evaluation metric Score Chart.
+# Visualizing evaluation Metric Score chart
+
+8.2.2 Cross- Validation & Hyperparameter Tuning
+# ML Model - 1 Implementation with hyperparameter optimization techniques (i.e., GridSearch CV, RandomSearch CV, Bayesian Optimization etc.)
+# Fit the Algorithm
+# Predict on the model
+
+8.2.3 Which hyperparameter optimization technique have you used and why?
+# Answer Here.
+
+8.2.4 Have you seen any improvement? Note down the improvement with updates Evaluation metric Score Chart.
+# Answer Here.
+
+
+8.3 ML Model - 3
+# ML Model - 3 Implementation
+# Fit the Algorithm
+# Predict on the model
+
+8.3.1 Explain the ML Model used and it's performance using Evaluation metric Score Chart.
+# Visualizing evaluation Metric Score chart
+
+8.3.2 Cross- Validation & Hyperparameter Tuning
+# ML Model - 3 Implementation with hyperparameter optimization techniques (i.e., GridSearch CV, RandomSearch CV, Bayesian Optimization etc.)
+# Fit the Algorithm
+# Predict on the model
+
+8.3.3 Which hyperparameter optimization technique have you used and why?
+# Answer Here.
+
+8.3.4 Have you seen any improvement? Note down the improvement with updates Evaluation metric Score Chart.
+# Answer Here.
+
+
+9. Choices 
+
+9.1 Explain each evaluation metric's indication towards business and the business impact of the ML model used.
+# Answer Here.
+
+9.2 Which Evaluation metrics did you consider for a positive business impact and why?
+# Answer Here.
+
+9.3 Which ML model did you choose from the above created models as your final prediction model and why?
+# Answer Here.
+
+9.4 Explain the model which you have used and the feature importance using any model explainability tool?
+# Answer Here.
+
+
+10. Future Work (Optional)
+
+10.1 Save the best performing ml model in a pickle file or joblib file format for deployment process.
+# Save the File
+
+10.2 Again Load the saved model file and try to predict unseen data for a sanity check.
+# Load the File and predict unseen data.
+
+
+Congrats! Your model is successfully created and ready for deployment on a live server for a real user interaction !!!
+
+11. Conclusion
+# Write the conclusion here.
